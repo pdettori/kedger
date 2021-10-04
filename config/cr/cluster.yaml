@@ -1,0 +1,7 @@
+apiVersion: registry.kedger.cloud.ibm.com/v1alpha1
+kind: Cluster
+metadata:
+  name: cluster1
+spec:
+  name: pluto
+  location: us-south

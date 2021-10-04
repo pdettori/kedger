@@ -1,0 +1,4 @@
+
+version: "1"
+domain: kedger.cloud.ibm.com
+repo: github.com/pdettori/kedger
